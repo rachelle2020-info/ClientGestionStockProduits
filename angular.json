@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ClientGestionStockProduits"
+    }
+  },
+  "defaultProject": "ClientGestionStockProduits",
+  "cli": {
+    "analytics": "62364f4c-82be-49f0-b220-591dfcb1c2ba"
+  }
 }
